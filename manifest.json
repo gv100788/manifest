@@ -1,0 +1,38 @@
+{
+  "name": "DROID TECH",
+  "short_name": "DroidTech",
+  "start_url": "https://www.ardiset.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#163e25",
+  "description": "Informasi Dunia Digital dan Teknologi",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-gaYINFtsLiQ/Xs0xL86IcRI/AAAAAAAAARY/rML4DTuGDwkWH-ru9MivngFouiI0vFN_QCLcBGAsYHQ/s48/droid.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-gaYINFtsLiQ/Xs0xL86IcRI/AAAAAAAAARY/rML4DTuGDwkWH-ru9MivngFouiI0vFN_QCLcBGAsYHQ/s72/droid.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-gaYINFtsLiQ/Xs0xL86IcRI/AAAAAAAAARY/rML4DTuGDwkWH-ru9MivngFouiI0vFN_QCLcBGAsYHQ/s96/droid.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-gaYINFtsLiQ/Xs0xL86IcRI/AAAAAAAAARY/rML4DTuGDwkWH-ru9MivngFouiI0vFN_QCLcBGAsYHQ/s144/droid.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-gaYINFtsLiQ/Xs0xL86IcRI/AAAAAAAAARY/rML4DTuGDwkWH-ru9MivngFouiI0vFN_QCLcBGAsYHQ/s168/droid.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-gaYINFtsLiQ/Xs0xL86IcRI/AAAAAAAAARY/rML4DTuGDwkWH-ru9MivngFouiI0vFN_QCLcBGAsYHQ/s192/droid.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-gaYINFtsLiQ/Xs0xL86IcRI/AAAAAAAAARY/rML4DTuGDwkWH-ru9MivngFouiI0vFN_QCLcBGAsYHQ/s512/droid.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
